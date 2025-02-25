@@ -1,4 +1,4 @@
-import { useEffect, useState, useContext } from "react";
+import React, { useEffect, useState, useContext } from "react";
 import { SquadContext } from "../context/SquadContext";
 
 const PokemonList = () => {
